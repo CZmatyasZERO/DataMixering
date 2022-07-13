@@ -1,4 +1,4 @@
-<p align="center"><img src="assets" alt="/logo.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CZmatyasZERO/DataMixering/main/assets/logo.svg" alt="logo"></p>
 <div align="center">
 
 </div>
