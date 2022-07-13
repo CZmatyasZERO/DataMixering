@@ -1,6 +1,6 @@
 {
   "name": "datamixering",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Randomizing data in many styles",
   "main": "index.js",
   "scripts": {

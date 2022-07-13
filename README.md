@@ -2,8 +2,8 @@
 <div align="center">
 
 </div>
-<h1 align="center">DataMixering v1.0.0</h1>
-<p>Can mix data in many styles. Combine it, create groups. Works with tensors and vertexs.</p>
+<h1 align="center">DataMixering v1.0.2</h1>
+<p>Can mix data in many styles. Combine it, create groups. Works with tensors and matrixs.</p>
 
 <h2>Usage</h2>
 
