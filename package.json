@@ -1,0 +1,27 @@
+{
+  "name": "datamixering",
+  "version": "1.0.0",
+  "description": "Randomizing data in many styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "choice",
+    "data",
+    "hash",
+    "encode",
+    "join"
+  ],
+  "author": "Matyáš Klimeš",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CZmatyasZERO/DataMixering.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CZmatyasZERO/DataMixering/issues"
+  },
+  "homepage": "https://github.com/CZmatyasZERO/DataMixering#readme"
+}
